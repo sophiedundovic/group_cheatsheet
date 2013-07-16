@@ -1,3 +1,11 @@
+body{background-color:#FFFFCC}
 h2{
-    color:blue;
+    color:orange;
+}
+
+#tables{
+    border : 5px ridge purple;
+    color: purple;
+    background-color:orange;
+
 }
